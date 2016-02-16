@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delectusinscrip02cauegoog_0024.png"; bbox 0 0 2932 5040; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 508 1855 857 1936">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 508 1855 857 1936">
+     <span class='ocr_line' id='line_1_1' title="bbox 508 1855 857 1936; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 508 1855 647 1936; x_wconf 84' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_2' title='bbox 669 1856 857 1936; x_wconf 88' lang='lat' dir='ltr'><strong>PRIMA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 248 2228 1124 2341">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 248 2228 1124 2341">
+     <span class='ocr_line' id='line_1_2' title="bbox 248 2228 1124 2341; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 248 2229 465 2340; x_wconf 81' lang='lat' dir='ltr'>TITULI</span> <span class='ocrx_word' id='word_1_4' title='bbox 513 2229 724 2341; x_wconf 79' lang='lat' dir='ltr'>DORICI</span> <span class='ocrx_word' id='word_1_5' title='bbox 773 2228 1124 2340; x_wconf 78' lang='lat' dir='ltr'>CIVITATUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 337 2502 1031 2675">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 337 2502 1031 2675">
+     <span class='ocr_line' id='line_1_3' title="bbox 337 2502 1031 2675; baseline 0.003 -62"><span class='ocrx_word' id='word_1_6' title='bbox 337 2502 1031 2675; x_wconf 68' lang='lat' dir='ltr'><strong>PELOPONNESIAOARUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1470 5040">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1470 5040">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1470 5040; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1470 5040; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
